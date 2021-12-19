@@ -1,7 +1,7 @@
 ### 안녕하세요 성장하는 개발자 김희준입니다.👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FheeJNa)](https://hits.seeyoufarm.com)
 <!--
-**shinplest/shinplest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**heeJNa/heeJNa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
