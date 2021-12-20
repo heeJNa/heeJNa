@@ -15,14 +15,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=heeJNa&show_icons=true&hide_border=true)](https://github.com/heeJNa)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heeJNa&layout=compact)](https://github.com/heeJNa)
+## ⚡ 자격증
+
++ 정보처리산업기사
++ SQLD
++ 네트워크관리사2급
+
+##  나의 깃허브✨
+
+<p align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=heeJNa&show_icons=true&theme=dark" width = "65%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heeJNa" width="28%">
+
+ </p>
 
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Java&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Java&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=Java&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=Java&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/CSS31572B6?style=flat-square&logo=Java&logoColor=white"/></a>
 
 
 
