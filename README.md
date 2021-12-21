@@ -1,4 +1,4 @@
-### 안녕하십니까! 안되면 되게하는 개발자 김희준입니다.👋
+### 안녕하십니까! 안되면 되게하는 개발자 김희준입니다.🇰🇷
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FheeJNa)](https://hits.seeyoufarm.com)
 <!--
 **heeJNa/heeJNa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=heeJNa&show_icons=true&theme=dark" width = "65%">
+<img src="https://github-readme-stats.vercel.app/api?username=heeJNa&show_icons=true&theme=white" width = "65%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heeJNa" width="28%">
 
  </p>
