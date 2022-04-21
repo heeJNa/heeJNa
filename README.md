@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## ⚡ 자격증
-
++ 정보처리기사(필기)
 + 정보처리산업기사
 + SQLD
 + 네트워크관리사2급
