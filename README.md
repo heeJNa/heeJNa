@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   
-![heeJNa's github stats](https://github-readme-stats.vercel.app/api?username=heeJNa&show_icons=true&theme=white)
+![heeJNa's GitHub stats](https://github-readme-stats.vercel.app/api?username=heeJNa&show_icons=true&theme=radical)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heeJNa" width="28%">
 
  </p>
