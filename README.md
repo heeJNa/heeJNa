@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   
-[![heeJNa's GitHub stats](https://github-readme-stats.vercel.app/api?username=heeJNa&show_icons=true&theme=radical)](https://github.com/heeJNa/github-readme-stats)
+[![heeJNa's GitHub stats](https://github-readme-stats.vercel.app/api?username=heeJNa&show_icons=true&theme=white)](https://github.com/heeJNa/github-readme-stats)
 
  </p>
  
